@@ -6,7 +6,7 @@ A simple queue management system developed in Java using IntelliJ IDEA (without 
 - Add customer to queue
 - Remove customer
 - Display queue
-- Search customer in queue
+- Update customer in queue
 
 ## How to Run
 1. Open in IntelliJ IDEA
